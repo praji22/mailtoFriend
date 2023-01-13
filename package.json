@@ -1,0 +1,14 @@
+{
+  "name": "mailtofreind",
+  "version": "1.0.0",
+  "description": "email to someone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajeesha",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
